@@ -2,6 +2,11 @@
 
 MATLAB implementation of the spectral integral method (SIM) for scattering of a plane wave by a one-dimensional periodic array (grating) of identical, homogeneous, smooth cylinders. The code computes the complex Floquet amplitudes of all propagating diffraction orders and the reflectance, transmittance, and absorptance, in both TE<sub>z</sub> and TM<sub>z</sub> polarizations, for lossless dielectrics and for lossy or plasmonic materials with complex permittivity (e.g., gold in the visible and infrared).
 
+<p align="center">
+  <img src="figures/figure_porto_sim.png" width="600" alt="Porto lamellar grating">
+</p>
+<p align="center"><em>(a) Geometry; (b) zero-order transmittance, SIM (black) vs. Porto et al. (colored).</em></p>
+
 Main features:
 
 - Arbitrary angle of incidence, TE<sub>z</sub> (H<sub>z</sub>) and TM<sub>z</sub> (E<sub>z</sub>) in a single formulation

@@ -143,7 +143,3 @@ If you use this code, please cite:
 ## Author
 
 Ergun Simsek, University of Maryland Baltimore County (UMBC), simsek@umbc.edu
-
-## License
-
-Add a license of your choice (e.g., MIT) before publishing.
